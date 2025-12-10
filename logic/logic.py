@@ -39,7 +39,7 @@ b = True
 c = a and b
 print(a,'and',b,'  = ', c)
 
-print("===XOR===") #salah satu harus true
+print("===XOR===") #harus salah satu true
 a = False
 b = False
 c = a ^ b
